@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "onFocusChange",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
