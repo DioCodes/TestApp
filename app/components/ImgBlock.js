@@ -33,8 +33,7 @@ const styles = StyleSheet.create({
     borderRadius: 10
   },
   image: {
-    width: '100%',
-    height: '100%',
+    flex: 1,
     borderRadius: 10
   },
   textContainer: {
