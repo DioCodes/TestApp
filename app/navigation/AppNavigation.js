@@ -13,7 +13,6 @@ export const AppNavigation = () => {
       initialRouteName="Main"
       screenOptions={{
         headerStyle: {
-          backgroundColor: '#fff',
           shadowColor: 'transparent',
           elevation: 0
         },
